@@ -1,0 +1,18 @@
+{
+  "name": "fuel-wallet",
+  "version": "1.0.0",
+  "description": "Fuel Wallet project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staking-pulse-labs/fuel-wallet.git"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
